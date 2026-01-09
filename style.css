@@ -39,6 +39,12 @@ nav{
   font-weight: 500;
   color: white;
 }
+.btn:hover{
+  background-color: white;
+  color: #469165;
+  font-weight: bolder;
+  border: 1px solid #469165;
+}
 .banner{
   background-image: linear-gradient(rgba(0, 25, 49, 0.6), 
   rgba(0, 25, 49, 0.6)), url(Images/notes.jpg);
@@ -66,6 +72,10 @@ nav{
   font-size: 16px;
   font-weight: 500;
   cursor: pointer;
+}
+.white-btn:hover{
+  background-color: #469165;
+  color: white;
 }
 .banner-content .green-line{
   color: #469165;
@@ -100,8 +110,11 @@ nav{
   font-size: 16px;
   font-weight: 500;
   color: white;
-  
-}
+  }
+  .banner-content .twobtn .trns-btn:hover{
+    background-color: white;
+    color: #469165;
+  }
 .container{
   text-align: center;
 }
