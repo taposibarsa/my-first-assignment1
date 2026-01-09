@@ -54,7 +54,7 @@ nav{
   padding: 116px 120px 180px 120px;
   margin: 0 auto;
   text-align: center;
-  border: 1px solid red;
+  /* border: 1px solid red; */
   /* width: 770px; */
 }
 .banner-content .white-btn{
